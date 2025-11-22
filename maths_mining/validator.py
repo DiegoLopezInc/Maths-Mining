@@ -1,6 +1,6 @@
 """Main math validator implementation."""
 
-from typing import Optional
+from typing import Optional, Any
 import sympy as sp
 
 from maths_mining.models import ValidationRequest, ValidationResult, ValidationStatus
@@ -52,7 +52,7 @@ class MathValidator:
     def validate_expression(
         self, 
         expression: str, 
-        expected_result: Optional[any] = None,
+        expected_result: Optional[Any] = None,
         context: Optional[str] = None
     ) -> ValidationResult:
         """Validate a mathematical expression directly.
