@@ -21,7 +21,7 @@ This document provides a curated list of validated data sources for finding math
 - **Access**: Free, requires registration
 
 ### UCI Machine Learning Repository
-- **URL**: https://archive.ics.uci.edu/ml/index.php
+- **URL**: https://archive.ics.uci.edu/
 - **Description**: One of the oldest and most well-established repositories for machine learning datasets. Contains numerous datasets suitable for mathematical analysis and modeling.
 - **Type**: Academic repository maintained by UC Irvine
 - **Access**: Free and open
@@ -66,10 +66,10 @@ This document provides a curated list of validated data sources for finding math
 - **Type**: Academic repository
 - **Access**: Free and open
 
-### MIT Open Data
+### MIT Libraries - Data Management
 - **URL**: https://libraries.mit.edu/data-management/
-- **Description**: MIT's research data management resources and datasets. Provides access to various mathematical and scientific datasets.
-- **Type**: Academic institution
+- **Description**: MIT Libraries' guide to data management and resources for finding MIT research datasets. Provides information on accessing various mathematical and scientific datasets from MIT.
+- **Type**: Academic resource guide
 - **Access**: Free (varies by dataset)
 
 ### arXiv Dataset
