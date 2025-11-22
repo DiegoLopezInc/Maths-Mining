@@ -122,18 +122,6 @@ This document provides a curated list of validated data sources for finding math
 - **Type**: Government mathematical reference
 - **Access**: Free and open
 
-### The On-Line Encyclopedia of Integer Functions
-- **URL**: https://oeis.org/
-- **Description**: Database of mathematical integer sequences and their properties.
-- **Type**: Specialized mathematical database
-- **Access**: Free and open
-
-### Mathematical Image Database
-- **URL**: https://mathdb.org/ (if available)
-- **Description**: Various mathematical visualization datasets and geometric data.
-- **Type**: Specialized repository
-- **Access**: Varies
-
 ---
 
 ## Educational Resources
