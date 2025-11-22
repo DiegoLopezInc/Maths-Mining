@@ -19,6 +19,7 @@ If you're an agent assigned to work on a task:
 
 - **[AGENT_QUICK_REFERENCE.md](AGENT_QUICK_REFERENCE.md)** - Quick command reference for daily agent workflow
 - **[BRANCHING_STRATEGY.md](BRANCHING_STRATEGY.md)** - Complete git branching strategy for parallel work
+- **[BRANCHING_TREE_VISUAL.md](BRANCHING_TREE_VISUAL.md)** - Visual diagrams of the branching structure
 - **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines and code standards
 
 ## Repository Structure
